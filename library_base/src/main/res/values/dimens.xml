@@ -1,0 +1,151 @@
+<resources>
+    <dimen name="dialpad_key_numbers_size">@dimen/dialpad_key_numbers_default_size</dimen>
+    <dimen name="dialpad_key_numbers_default_size">36sp</dimen>
+    <dimen name="dialpad_key_letters_size">12sp</dimen>
+    <dimen name="dialpad_key_pound_size">23sp</dimen>
+    <dimen name="dialpad_key_star_size">36sp</dimen>
+    <dimen name="dialpad_key_height">64dp</dimen>
+    <dimen name="dialpad_key_number_margin_bottom">@dimen/dialpad_key_number_default_margin_bottom
+    </dimen>
+    <dimen name="dialpad_key_number_default_margin_bottom">3dp</dimen>
+
+    <dimen name="dialpad_bottom_key_height">65dp</dimen>
+    <dimen name="dialpad_key_button_translate_y">100dp</dimen>
+    <dimen name="dialpad_digits_text_size">34sp</dimen>
+    <dimen name="dialpad_digits_adjustable_text_size">@dimen/dialpad_digits_text_size</dimen>
+
+    <dimen name="dialpad_key_plus_size">18sp</dimen>
+    <dimen name="dialpad_horizontal_padding">5dp</dimen>
+    <dimen name="dialpad_digits_text_min_size">24sp</dimen>
+    <dimen name="dialpad_digits_height">60dp</dimen>
+
+    <dimen name="dialpad_zero_key_number_margin_bottom">
+        @dimen/dialpad_zero_key_number_default_margin_bottom
+    </dimen>
+    <dimen name="dialpad_zero_key_number_default_margin_bottom">1dp</dimen>
+    <dimen name="dialpad_symbol_margin_bottom">13dp</dimen>
+    <dimen name="downwards_drop_shadow_height">16dp</dimen>
+
+    <dimen name="status_bar_height">0dp</dimen>
+    <dimen name="status_bar_wechat_face_view_height">75dp</dimen>
+    <dimen name="nav_bar_height">90dp</dimen>
+    <dimen name="nav_bar_with_shadow_height">100dp</dimen>
+    <dimen name="nav_bar_with_wechat_height">115dp</dimen>
+
+    <dimen name="font_size_tiny">12sp</dimen>
+    <dimen name="font_size_small">15sp</dimen>
+    <dimen name="font_size_medium">18sp</dimen>
+    <dimen name="font_size_normal">21sp</dimen>
+    <dimen name="font_size_normalbig">24sp</dimen>
+    <dimen name="font_size_semibig">28sp</dimen>
+    <dimen name="font_size_big">31sp</dimen>
+    <dimen name="font_size_semihuge">42sp</dimen>
+    <dimen name="font_size_medium_huge">50sp</dimen>
+    <dimen name="font_size_huge">64sp</dimen>
+    <dimen name="font_size_title">22.5sp</dimen>
+
+    <dimen name="common_action_bar_height">60dp</dimen>
+    <dimen name="default_horizontal_padding">16dp</dimen>
+    <dimen name="common_action_bar_action_width">52.5dp</dimen>
+    <dimen name="inputbox_inputtext_height">52.5dp</dimen>
+
+    <dimen name="dialog_layout_height">300dp</dimen>
+    <dimen name="dialog_layout_width">500dp</dimen>
+    <dimen name="dialog_title_paddingTop">20dp</dimen>
+    <dimen name="dialog_editText_marginRight">20dp</dimen>
+    <dimen name="dialog_editText_marginLeft">20dp</dimen>
+    <dimen name="dialog_editText_marginTop">40dp</dimen>
+    <dimen name="dialog_button_height">65dp</dimen>
+    <dimen name="dialog_button_marginLeftOrRight">100dp</dimen>
+    <dimen name="dialog_button_paddingStart">40dp</dimen>
+    <dimen name="dialog_button_paddingEnd">40dp</dimen>
+    <dimen name="dialog_button_paddingTop">10dp</dimen>
+    <dimen name="dialog_button_paddingBottom">10dp</dimen>
+    <dimen name="dialog_button_marginTop">40dp</dimen>
+    <dimen name="progressBarRadius">45dp</dimen>
+
+    <dimen name="arc_menu__padding">5dp</dimen>
+    <dimen name="arc_menu_com.capricorn.ArcLayout_childSize">40dp</dimen>
+    <dimen name="arc_menu_com.capricorn.ArcLayout_layout_marginStart">5dp</dimen>
+    <dimen name="arc_menu_com.capricorn.ArcLayout_layout_marginBottom">5dp</dimen>
+    <dimen name="arc_menu_FrameLayout_layout_width">40dp</dimen>
+    <dimen name="arc_menu_FrameLayout_layout_height">40dp</dimen>
+    <dimen name="common_action_bar_ImageView_layout_width">35dp</dimen>
+    <dimen name="common_action_bar_ImageView_layout_height">35dp</dimen>
+    <dimen name="common_action_bar_ImageView_padding">5dp</dimen>
+    <dimen name="common_action_bar_TextView_padding">5dp</dimen>
+    <dimen name="common_action_bar_TextView_padding3">5dp</dimen>
+    <dimen name="common_action_bar_TextView_layout_marginLeft">45dp</dimen>
+    <dimen name="common_action_bar_TextView_layout_marginRight">45dp</dimen>
+    <dimen name="datepickerbox__paddingStart">3dp</dimen>
+    <dimen name="datepickerbox__paddingEnd">5dp</dimen>
+    <dimen name="datepickerbox__paddingTop">3dp</dimen>
+    <dimen name="datepickerbox__paddingBottom">5dp</dimen>
+    <dimen name="datepickerbox_TextView_padding">8dp</dimen>
+    <dimen name="datepickerbox_TextView_paddingTop">10dp</dimen>
+    <dimen name="datepickerbox_TextView_paddingBottom">10dp</dimen>
+    <dimen name="datepickerbox_TextView_paddingTop3">10dp</dimen>
+    <dimen name="datepickerbox_TextView_paddingBottom3">10dp</dimen>
+    <dimen name="item_pop_menu__paddingLeft">8dp</dimen>
+    <dimen name="item_pop_menu__paddingRight">8dp</dimen>
+    <dimen name="list_item_RelativeLayout_layout_height">15dp</dimen>
+    <dimen name="list_item_ImageView_layout_marginEnd">5dp</dimen>
+    <dimen name="list_item_ImageView_layout_marginStart">5dp</dimen>
+    <dimen name="load_more_footer_View_layout_height">0.5dp</dimen>
+    <dimen name="load_more_footer_ProgressBar_layout_width">36dp</dimen>
+    <dimen name="load_more_footer_ProgressBar_layout_height">36dp</dimen>
+    <dimen name="load_more_footer_ProgressBar_padding">3dp</dimen>
+    <dimen name="message_box__paddingLeft">3dp</dimen>
+    <dimen name="message_box__paddingRight">5dp</dimen>
+    <dimen name="message_box__paddingTop">3dp</dimen>
+    <dimen name="message_box__paddingBottom">5dp</dimen>
+    <dimen name="message_box_TextView_paddingTop">28dp</dimen>
+    <dimen name="message_box_View_layout_marginTop">28dp</dimen>
+    <dimen name="message_box_TextView_paddingTop3">28dp</dimen>
+    <dimen name="message_box_TextView_paddingBottom">28dp</dimen>
+    <dimen name="message_box_TextView_paddingTop4">28dp</dimen>
+    <dimen name="message_box_TextView_paddingBottom3">28dp</dimen>
+    <dimen name="panel_pop_menu_RelativeLayout_layout_marginTop">3dp</dimen>
+    <dimen name="panel_pop_menu_RelativeLayout_paddingLeft">3dp</dimen>
+    <dimen name="panel_pop_menu_RelativeLayout_paddingRight">3dp</dimen>
+    <dimen name="panel_pop_menu_RelativeLayout_paddingBottom">3dp</dimen>
+    <dimen name="panel_pop_menu_RelativeLayout_paddingTop">3dp</dimen>
+    <dimen name="panel_pop_menu_LinearLayout_layout_width">150dp</dimen>
+    <dimen name="panel_pop_menu_LinearLayout_paddingTop">5dp</dimen>
+    <dimen name="panel_pop_menu_LinearLayout_paddingBottom">5dp</dimen>
+    <dimen name="panel_pop_menu_ImageView_layout_width">12dp</dimen>
+    <dimen name="panel_pop_menu_ImageView_layout_height">6dp</dimen>
+    <dimen name="panel_pop_menu_ImageView_layout_width3">12dp</dimen>
+    <dimen name="panel_pop_menu_ImageView_layout_height3">6dp</dimen>
+    <dimen name="panel_pop_menu_ImageView_layout_marginTop">-4dp</dimen>
+    <dimen name="ray_menu_com.capricorn.RayLayout_leftHolderWidth">60dp</dimen>
+    <dimen name="ray_menu_FrameLayout_layout_width">52dp</dimen>
+    <dimen name="ray_menu_FrameLayout_layout_height">52dp</dimen>
+    <dimen name="ray_menu_FrameLayout_layout_margin">4dp</dimen>
+    <dimen name="status_info_TextView_paddingLeft">20dp</dimen>
+    <dimen name="status_info_TextView_paddingRight">20dp</dimen>
+    <dimen name="status_info_TextView_paddingBottom">60dp</dimen>
+    <dimen name="timepickerbox__paddingStart">3dp</dimen>
+    <dimen name="timepickerbox__paddingEnd">5dp</dimen>
+    <dimen name="timepickerbox__paddingTop">3dp</dimen>
+    <dimen name="timepickerbox__paddingBottom">5dp</dimen>
+    <dimen name="timepickerbox_TextView_padding">8dp</dimen>
+
+    <dimen name="timepickerbox_TextView_paddingTop">10dp</dimen>
+    <dimen name="timepickerbox_TextView_paddingBottom">10dp</dimen>
+    <dimen name="timepickerbox_TextView_paddingTop3">10dp</dimen>
+    <dimen name="timepickerbox_TextView_paddingBottom3">10dp</dimen>
+    <dimen name="xlistview_footer_RelativeLayout_padding">10dp</dimen>
+    <dimen name="xlistview_footer_ProgressBar_layout_marginTop">5dp</dimen>
+    <dimen name="xlistview_footer_TextView_layout_marginTop">5dp</dimen>
+    <dimen name="xlistview_header_RelativeLayout_layout_height">60dp</dimen>
+    <dimen name="xlistview_header_LinearLayout_layout_marginTop">3dp</dimen>
+    <dimen name="xlistview_header_ImageView_layout_marginLeft">-35dp</dimen>
+    <dimen name="xlistview_header_ProgressBar_layout_width">30dp</dimen>
+    <dimen name="xlistview_header_ProgressBar_layout_height">30dp</dimen>
+    <dimen name="xlistview_header_ProgressBar_layout_marginLeft">-40dp</dimen>
+
+    <dimen name="detail_list_more_margin_start">36dp</dimen>
+    <dimen name="cover_item_image_border_width">5dp</dimen>
+
+</resources>

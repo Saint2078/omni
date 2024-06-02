@@ -1,0 +1,1 @@
+include ':app', ':library_base', ':project_voice', ':project_music', ':project_wechat', ':demo'
