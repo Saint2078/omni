@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.tenke.app">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -16,17 +17,16 @@
         <activity android:name=".RecordActivity" />
         <activity android:name=".ZhaiyaoActivity" />
         <activity android:name=".TouziActivity" />
-        <activity android:name=".QAActivity" />
-
-        <activity android:name=".asr.AsrActivity" />
-        <activity android:name=".music.MusicActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".QAActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".asr.AsrActivity" />
+        <activity android:name=".music.MusicActivity" />
+        <activity android:name=".MainActivity"/>
     </application>
 
 </manifest>

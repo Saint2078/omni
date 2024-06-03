@@ -143,8 +143,8 @@ public class VoiceListener implements EventListener {
     }
 
     private void gotoJine(){
-        Intent intent = new Intent();
-        intent.setClass(activity,JineActivity.class);
-        activity.startActivity(intent);
+//        Intent intent = new Intent();
+//        intent.setClass(activity,JineActivity.class);
+//        activity.startActivity(intent);
     }
 }

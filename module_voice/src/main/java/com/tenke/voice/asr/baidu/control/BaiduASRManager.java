@@ -113,7 +113,7 @@ public class BaiduASRManager {
 //        params.put(SpeechConstant.SOUND_SUCCESS, R.raw.bdspeech_recognition_success);
         params.put(SpeechConstant.SOUND_ERROR, R.raw.bdspeech_recognition_error);
         params.put(SpeechConstant.SOUND_CANCEL, R.raw.bdspeech_recognition_cancel);
-        params.put("pid", "1537");
+        params.put("pid", "15373");
         params.put(SpeechConstant.VAD_ENDPOINT_TIMEOUT, 0);
         params.put(SpeechConstant.VAD, SpeechConstant.VAD_DNN);
         params.put(SpeechConstant.DECODER, 0);
