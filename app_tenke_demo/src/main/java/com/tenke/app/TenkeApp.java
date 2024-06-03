@@ -14,7 +14,6 @@ public class TenkeApp extends Application {
         ApplicationContextLink.init(this);
         LoggerUtil.init(true,false);
         //BaiduASRManager.getInstance().startWakeUpSession();
-
     }
 
 }

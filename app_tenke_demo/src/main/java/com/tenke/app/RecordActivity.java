@@ -32,6 +32,11 @@ public class RecordActivity extends AppCompatActivity {
     }
 
     @Override
+    protected void onStart() {
+        super.onStart();
+    }
+
+    @Override
     protected void onResume() {
         super.onResume();
         BaiduASRManager.getInstance().startASRSession(true);

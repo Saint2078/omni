@@ -16,7 +16,7 @@
         <activity android:name=".RecordActivity" />
         <activity android:name=".ZhaiyaoActivity" />
         <activity android:name=".TouziActivity" />
-        <activity android:name=".JineActivity" />
+        <activity android:name=".QAActivity" />
 
         <activity android:name=".asr.AsrActivity" />
         <activity android:name=".music.MusicActivity" />
