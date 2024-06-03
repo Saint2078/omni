@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tenke.voice">
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application>
+
+        <meta-data
+            android:name="com.baidu.speech.APP_ID"
+            android:value="70325372" />
+        <meta-data
+            android:name="com.baidu.speech.API_KEY"
+            android:value="XWQvkM9e87iEXx0ycZzcaVJd" />
+        <meta-data
+            android:name="com.baidu.speech.SECRET_KEY"
+            android:value="6xcTVFgXYKm0UBvkLFpibSGmXPdJJqK8" />
+
+        <service android:name="com.baidu.speech.VoiceRecognitionService" android:exported="false" />
+    </application>
+
+</manifest>

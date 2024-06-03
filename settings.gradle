@@ -1,1 +1,1 @@
-include ':app', ':library_base', ':project_voice', ':project_music', ':project_wechat', ':demo'
+include ':app_empty', ':app_tenke_demo', ':app_test', ':demo_case', ':lib_base', ':lib_floatwindow',':module_call',':module_empty',':module_music',':module_tts',':module_voice',':module_wechat'
